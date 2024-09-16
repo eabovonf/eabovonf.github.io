@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eabovonf.github.io/sitemap.html.gz
+Sitemap: https://eabovonf.github.io/app/sitemap.html.gz
+Sitemap: https://eabovonf.github.io/assets/sitemap.html.gz
+Sitemap: https://eabovonf.github.io/css/sitemap.html.gz
+Sitemap: https://eabovonf.github.io/includes/sitemap.html.gz
+Sitemap: https://eabovonf.github.io/item/sitemap.html.gz
+Sitemap: https://eabovonf.github.io/src/sitemap.html.gz
